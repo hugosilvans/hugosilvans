@@ -2,13 +2,20 @@
 
 Aprendendo e aprimorando minhas competências em desenvolvimento.
 
-## Projetos
+## Projeto em destaque
+
+### [Morada Mineira — Chatbot de Atendimento](https://github.com/hugosilvans/SQUAD20-Morada-Mineira)
+
+Projeto em equipe para apoiar o atendimento de uma confeitaria: cardápio por categoria, sugestões, carrinho e finalização por link do WhatsApp. Desenvolvido com Flask, JavaScript e SQLite.
+
+[Conheça o projeto, a equipe e as instruções de execução →](https://github.com/hugosilvans/SQUAD20-Morada-Mineira#readme)
+
+## Outros projetos
 
 | Repositório | O que você encontra |
 | --- | --- |
-| [Morada Mineira](https://github.com/hugosilvans/SQUAD20-Morada-Mineira) | Chatbot web para uma confeitaria, desenvolvido em equipe com Flask, HTML, CSS, JavaScript e SQLite |
-| [CRUD Library](https://github.com/hugosilvans/crud-library) | Projeto de biblioteca com JavaScript e script SQL |
-| [Angular CRUD API](https://github.com/hugosilvans/angular-crud-api) | Atividade de integração entre Angular e uma API Node.js/Express |
+| [CRUD Library](https://github.com/hugosilvans/crud-library) | Sistema acadêmico de biblioteca com Node.js, Express e MySQL |
+| [Angular CRUD API](https://github.com/hugosilvans/angular-crud-api) | CRUD de produtos com cinco operações HTTP entre Angular e uma API Node.js/Express |
 | [Programação Web](https://github.com/hugosilvans/programacao_web) | Estudos e projetos, incluindo Nexus Games E-commerce e um projeto de CRUD |
 
 ## Estudos
