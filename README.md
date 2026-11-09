@@ -1,8 +1,16 @@
 # Olá! Eu sou o Hugo 👋
 
-Aprendendo e aprimorando minhas competências em desenvolvimento.
+Estudante de Ciência da Computação na UCB, com interesse em desenvolvimento de software e Engenharia de IA. Construindo uma base prática em Python, APIs, bancos de dados e Machine Learning.
 
-## Projeto em destaque
+## Projetos em destaque
+
+### [Classificador de chamados de TI — Machine Learning](https://github.com/hugosilvans/classificador-chamados-ml)
+
+Protótipo educacional em Python/scikit-learn com TF-IDF, comparação de modelos, validação cruzada, avaliação separada, API HTTP local e interface de demonstração. Inclui testes automatizados, matriz de confusão e análise dos erros.
+
+A versão inicial foi construída com assistência de IA e utiliza 110 textos sintéticos. Os resultados não representam desempenho em chamados reais. O projeto está em fase de estudo e evolução.
+
+[Veja o código e a avaliação →](https://github.com/hugosilvans/classificador-chamados-ml#readme)
 
 ### [Morada Mineira — Chatbot de Atendimento](https://github.com/hugosilvans/morada-mineira-chatbot)
 
