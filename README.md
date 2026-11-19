@@ -1,6 +1,6 @@
 # Olá! Eu sou o Hugo 👋
 
-Estudante de Ciência da Computação na UCB, com interesse em desenvolvimento de software e Engenharia de IA. Construindo uma base prática em Python, APIs, bancos de dados e Machine Learning.
+Sou estudante de Ciência da Computação na UCB e estagiário de TI. Tenho interesse em qualidade de software e testes de APIs. No [projeto de cadastro de produtos](https://github.com/hugosilvans/angular-crud-api), você encontra a coleção do Postman para testar as operações da API.
 
 ## Projetos em destaque
 
@@ -40,7 +40,3 @@ Projeto em equipe para apoiar o atendimento de uma confeitaria: cardápio por ca
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugosilvans/hugosilvans/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugosilvans/hugosilvans/output/pacman-contribution-graph.svg">
 </picture>
-
-## Guia do código
-
-Consulte [GUIA_CODIGO.md](GUIA_CODIGO.md) para localizar os módulos, entender as convenções e estudar as alterações.
